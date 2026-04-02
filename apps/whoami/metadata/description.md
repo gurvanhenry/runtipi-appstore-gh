@@ -1,4 +1,4 @@
-# Whoami GH
+# Whoami
 
 Tiny Go webserver that prints OS information and HTTP request to output.
 
