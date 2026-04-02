@@ -8,7 +8,7 @@
   "categories": [
     "utilities"
   ],
-  "tipi_version": 1,
+  "tipi_version": 2,
   "version": "2.2.0",
   "source": "https://github.com/fccview/cronmaster",
   "exposable": true,
@@ -16,7 +16,7 @@
     {
       "type": "password",
       "label": "Auth Password",
-      "env_variable": "AUTH_PASSWORD",
+      "env_variable": "CRONMASTER_PASSWORD",
       "required": true
     }
   ]
