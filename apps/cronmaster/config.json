@@ -1,0 +1,23 @@
+{
+  "name": "Cronmaster",
+  "id": "cronmaster",
+  "available": true,
+  "short_desc": "Cronjob management UI",
+  "author": "fccview",
+  "port": 8554,
+  "categories": [
+    "utilities"
+  ],
+  "tipi_version": 1,
+  "version": "2.2.0",
+  "source": "https://github.com/fccview/cronmaster",
+  "exposable": true,
+  "form_fields": [
+    {
+      "type": "password",
+      "label": "Auth Password",
+      "env_variable": "AUTH_PASSWORD",
+      "required": true
+    }
+  ]
+}
